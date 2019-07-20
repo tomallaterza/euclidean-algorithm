@@ -46,4 +46,4 @@ def recursive_gcd(n, m):
     """
 
     if m == 0: return n
-    else: return recursive_gcd(m, n % m)
+    return recursive_gcd(m, n % m)

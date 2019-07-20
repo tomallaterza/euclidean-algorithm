@@ -35,6 +35,6 @@ public class EuclideanAlgorithm {
 	 */
 	public static int recursiveGCD(int n, int m) {
 		if (m == 0) return n;
-		else return recursiveGCD(m, n % m);
+		return recursiveGCD(m, n % m);
 	}
 }
