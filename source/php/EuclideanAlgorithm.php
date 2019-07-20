@@ -5,6 +5,8 @@
  * (GCD) of two numbers.
  * 
  * @author Tommaso Tamagnini
+ * @copyright Copyright 2019, Tommaso Tamagnini
+ * @license MIT License
  * @version 1.0
  */
 
